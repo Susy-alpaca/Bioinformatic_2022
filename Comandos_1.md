@@ -11,6 +11,9 @@ que esta en la pagina original online, ojo fijarse donde se esta copiando]
  [de esta manera se adiere el file generado para ponerlo en el repositorio, y
 luego ponerlo online, si es que etsa listo re listo]
 
+## git status
+ [permite ver que tu archivo esta en tu repositorio, creo que local, es decir en tu compu]
+
 
 ## git commit -m "termine!" 
 [con este mensaje se "sella" por decirlo de alguna manera el trabajo, y con 
